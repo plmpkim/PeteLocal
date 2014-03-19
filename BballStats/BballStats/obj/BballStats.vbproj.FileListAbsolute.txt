@@ -1,0 +1,33 @@
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.exe
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.pdb
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.xml
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.Resources.resources
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.exe
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.xml
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.pdb
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.UserControl1.resources
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.Form1.resources
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\office.dll
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\office.xml
+C:\Documents and Settings\pkim\My Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.About.resources
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.exe
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.xml
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.pdb
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.exe
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.pdb
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\BballStats.xml
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\office.dll
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\bin\Debug\office.xml
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.About.resources
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.Form1.resources
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.Resources.resources
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.UserControl1.resources
+C:\Users\pkim\Documents\Visual Studio 2005\Projects\BballStats\BballStats\obj\Debug\BballStats.vbproj.GenerateResource.Cache
